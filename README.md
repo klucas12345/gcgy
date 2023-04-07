@@ -1,3 +1,17 @@
+# Repos
+
+## React IRC server, not currently working
+https://github.com/eimsap/CHAT_IRC
+
+## Node IRC server without client (in init)
+https://github.com/song940/node-irc
+
+## One of them, lighter not currently used (in init)
+https://github.com/knrd1/chatgpt
+
+
+
+
 # 🤖 chatgpt-irc
 
 chat with chatgpt on irc!
