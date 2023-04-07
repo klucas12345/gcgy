@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "irc-server": "^0.0.4",
+    "node-irc": "^0.0.5"
+  }
+}
